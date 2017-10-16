@@ -1,0 +1,66 @@
+.page-content {
+    margin-top: 40px;
+}
+#product-card > div > div > div.modal-body > div > div:nth-child(1) > img{
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+.carousel,
+.carousel-inner,
+.carousel-inner .item {
+  height: 400px;
+    margin-bottom: 50px;
+}
+
+.item:nth-child(1) {
+    background-image: url(http://svetlow.com/pic_l/1366898205.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.item:nth-child(2) {
+    background-image: url(http://www.lck-led.com/images/P6090698.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.item:nth-child(3) {
+    background-image: url(http://www.mouser.com/images/microsites/recom%20relv4-16%20pic.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.del-item{
+    cursor: pointer;
+}
+
+p {
+    font-size: 16px;
+    line-height: 30px;
+    color: #666666;
+}
+
+.call-to-action-widget {
+    padding: 30px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.fb-bg {
+background-color: #3B5998;
+}
+.tw-bg {
+background-color: #55ACEE;
+}
+.gplus-bg {
+background-color: #DD4B39;
+}
+
+footer.page-footer a {
+line-height: 25px;
+}
+
+footer.page-footer a {
+color: #fff;
+font-size: 15px;
+}
